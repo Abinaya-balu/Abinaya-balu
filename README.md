@@ -1,16 +1,45 @@
-## Hi there 👋
+# 🌸 Hey there, I'm Abinaya!  
 
-<!--
-**Abinaya-balu/Abinaya-balu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Software Systems (Integrated) | 🎨 Artist & UI/UX Enthusiast | 💻 Aspiring Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ About Me  
+- 🌱 Currently exploring **UI/UX design, Data Science, and Web Development**  
+- 🖌️ Passionate about **art & design**, blending creativity with tech  
+- 💡 Building projects in **e-commerce, chatbot systems, and portfolio design**  
+- 🎯 Goal: Land a role in **UI/UX or front-end development** with strong coding foundations  
+- 🌏 Based in India  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages & Tools**  
+`C` · `Java` · `Python` · `JavaScript` · `HTML` · `CSS` · `React` · `Node.js` · `MongoDB`  
+
+**Areas of Interest**  
+🎨 UI/UX · 🖼️ Digital Art & Illustration · 📊 Data Science · 🌐 Web Applications  
+
+---
+
+## 🚀 Featured Projects  
+- 🛒 **Cold-Pressed Oil Marketplace** – Vendor-based eCommerce system  
+- 📚 **Book Barter System** – Academic project for book exchange  
+- 🤖 **Mental Health Chatbot** – Support chatbot for student wellness  
+- 🌿 **Virtual Nursery** – MERN-based platform to buy pots, seeds & accessories  
+- 🎨 **Personal Art Portfolio** – Showcasing digital & traditional artwork  
+
+---
+
+## 📫 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat&logo=behance&logoColor=white)](https://behance.net/your-behance)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/broken.echoes)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
+
+---
+
+⭐️ *“Design is intelligence made visible.”*  
+
