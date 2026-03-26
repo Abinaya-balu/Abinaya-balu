@@ -5,10 +5,10 @@ MSc Software Systems (Integrated) | Artist & UI/UX Enthusiast | Aspiring Develop
 ---
 
 ## About Me  
-- Currently exploring **UI/UX design, Data Science, and Web Development**  
-- Passionate about **art & design**, blending creativity with tech  
+- Exploring the intersection of **Design + Technology**
+- Currently diving into **UI/UX, Data Science & Full-Stack Development**
 - Building projects in **e-commerce, chatbot systems, and portfolio design**  
-- Goal: Land a role in **UI/UX or Software Development** with strong coding foundations.
+- On a mission to become a **creative developer who builds meaningful digital experiences**
 - Based in India  
 
 ---
