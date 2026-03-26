@@ -13,17 +13,17 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 **Languages & Tools**  
 `C` · `Java` · `Python` · `JavaScript` · `HTML` · `CSS` · `React` · `Node.js` · `MongoDB`  
 
 **Areas of Interest**  
-🎨 UI/UX · 🖼️ Digital Art & Illustration · 📊 Data Science · 🌐 Software Development 
+🌐 Software Development · 📊 Machine Learning · 🎨 UI/UX · 🖼️ Digital Art & Illustration 
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects  
 -  **Cold-Pressed Oil Marketplace** – Vendor-based eCommerce system  
 - **Book Barter System** – Academic project for book exchange  
 - **Mental Health Chatbot** – Support chatbot for student wellness  
