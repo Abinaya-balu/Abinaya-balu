@@ -1,10 +1,10 @@
 # Hey there, I'm Abinaya!  
 
-🎓 MSc Software Systems (Integrated) | 🎨 Artist & UI/UX Enthusiast | 💻 Aspiring Developer  
+MSc Software Systems (Integrated) | Artist & UI/UX Enthusiast | Aspiring Developer  
 
 ---
 
-## ✨ About Me  
+## About Me  
 - Currently exploring **UI/UX design, Data Science, and Web Development**  
 - Passionate about **art & design**, blending creativity with tech  
 - Building projects in **e-commerce, chatbot systems, and portfolio design**  
@@ -16,10 +16,10 @@
 ## Tech Stack  
 
 **Languages & Tools**  
-`C` · `Java` · `Python` · `JavaScript` · `HTML` · `CSS` · `React` · `Node.js` · `MongoDB`  
+`C` · `Java` · `Python` · `JavaScript` · `HTML` · `CSS` · `React` · `Node.js` · `MySQL` · `MongoDB` 
 
 **Areas of Interest**  
-🌐 Software Development · 📊 Machine Learning · 🎨 UI/UX · 🖼️ Digital Art & Illustration 
+Software Development · DBMS  · Machine Learning · UI/UX · Digital Art & Illustration 
 
 ---
 
