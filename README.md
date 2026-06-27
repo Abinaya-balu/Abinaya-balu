@@ -151,21 +151,6 @@ A digital showcase of my technical projects, UI designs, and artwork.
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abinaya-balu&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Abinaya-balu&theme=tokyonight"/>
-</p>
-
----
-
-## 🌌 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abinaya-balu&theme=tokyo-night)]()
-
----
-
 ## 🎯 Philosophy
 
 I don’t just build software.  
@@ -197,5 +182,4 @@ I aim to create products where:
 </div>
 ---
 
-⭐️ *“Design is intelligence made visible.”*  
 
