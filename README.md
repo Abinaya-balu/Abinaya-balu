@@ -168,9 +168,7 @@ I aim to create products where:
 
 ## 🤝 Let's Connect
 
-- Portfolio: Add your portfolio link  
-- LinkedIn: Add your LinkedIn profile  
-- Email: Add your email  
+- LinkedIn: https://www.linkedin.com/in/abinaya-b-t-96b134245/
 
 ---
 
