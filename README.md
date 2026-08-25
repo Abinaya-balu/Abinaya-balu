@@ -127,17 +127,6 @@ AI-powered conversational assistant designed to support student wellness.
 
 ---
 
-### 🌱 Virtual Nursery
-Online plant shopping platform for gardening enthusiasts.
-
-- Plant browsing and purchasing system  
-- Product recommendations  
-- Responsive shopping experience  
-
-**Tech Stack:** MERN Stack  
-
----
-
 ## 🎨 Design & Creative Work
 
 ### Personal Portfolio Website
